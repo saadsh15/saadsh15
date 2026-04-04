@@ -1,4 +1,4 @@
-cat saadsh15_README.md 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Saad%20Shafique!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%20and%20open-source%20tools&descAlignY=55&descAlign=50" />
 </div>
