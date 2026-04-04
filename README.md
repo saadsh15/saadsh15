@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Saad%20Shafique!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20developer%20with%20a%20keen%20interest%20in%20the%20Open%20Source%20community&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Saad%20Shafique!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%20and%20open-source%20tools&descAlignY=55&descAlign=50" />
 </div>
 
 ### 👨‍💻 About Me
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/saadsh15">
-    <img src="https://github-readme-stats.vercel.app/api?username=saadsh15&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="saadsh15's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=saadsh15&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="saadsh15's GitHub stats" width="48%" />
   </a>
   <a href="https://github.com/saadsh15">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadsh15&theme=radium&hide_border=true" alt="saadsh15's Streak" width="48%" />
@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://github.com/saadsh15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsh15&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=saadsh15&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
@@ -53,4 +53,3 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
