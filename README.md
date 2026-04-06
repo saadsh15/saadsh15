@@ -1,7 +1,18 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Saad%20Shafique!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%20and%20open-source%20tools&descAlignY=55&descAlign=50" />
 </div>
+
+### 🔥 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏠 **[Homelab OS Landing](https://github.com/BasilSuhail/homelab-os-landing)** | An encryption-first homelab OS dashboard that bundles open-source tools with zero cloud dependency. | Docker, Nginx, SQLCipher |
+| 🤖 **[ai_council](https://github.com/saadsh15/ai_council)** | A terminal-based multi-agent AI research platform that orchestrates local and web-based LLMs. | Python |
+| 🚀 **[agent-skills](https://github.com/saadsh15/agent-skills)** | Custom skills to transform AI into a specialized multi-role engineering team. | AI Tools |
+| 🗣️ **[stos](https://github.com/saadsh15/stos)** | A basic text-to-speech application using Qwen-TTS with voice cloning capabilities. | Python |
+| 👤 **[Facial Recognition WebApp](https://github.com/saadsh15/facial_recognition_webapp)** | A real-time facial recognition app that uses Python (Flask) as a Server with a web UI. | Python |
+
+<br/>
 
 ### 👨‍💻 About Me
 
@@ -37,16 +48,6 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 </p>
 
-### 🔥 Highlighted Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **[ai_council](https://github.com/saadsh15/ai_council)** | A terminal-based multi-agent AI research platform that orchestrates local and web-based LLMs. | Python |
-| 🚀 **[agent-skills](https://github.com/saadsh15/agent-skills)** | Custom skills to transform AI into a specialized multi-role engineering team. | AI Tools |
-| 🗣️ **[stos](https://github.com/saadsh15/stos)** | A basic text-to-speech application using Qwen-TTS with voice cloning capabilities. | Python |
-| 👤 **[Facial Recognition WebApp](https://github.com/saadsh15/facial_recognition_webapp)** | A real-time facial recognition app that uses Python (Flask) as a Server with a web UI. | Python |
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
