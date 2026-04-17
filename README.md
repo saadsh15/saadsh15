@@ -10,7 +10,7 @@
 
 ### 🚀 Highlighted Projects
 
-- 🏠 **[Homelab OS Landing](https://github.com/BasilSuhail/homelab-os-landing)**: Encryption-first homelab dashboard. *(Docker, Nginx, SQLCipher)*
+- 🏠 **[Homelab OS Landing](https://github.com/BasilSuhail/dhobs)**: Encryption-first homelab dashboard. *(Docker, Nginx, SQLCipher)*
 - 🤖 **[ai_council](https://github.com/saadsh15/ai_council)**: Multi-agent AI research platform. *(Python)*
 - 🚀 **[agent-skills](https://github.com/saadsh15/agent-skills)**: Specialized AI engineering team skills.
 - 🗣️ **[stos](https://github.com/saadsh15/stos)**: TTS with voice cloning using Qwen-TTS. *(Python)*
