@@ -1,5 +1,5 @@
 # Hi, I'm Saad Shafique 👋
-**Building intelligent agents and open-source tools.**
+**I Build intelligent agents and open-source tools.**
 
 - 🔭 I’m currently working on **[ai_council](https://github.com/saadsh15/ai_council)**, a terminal-based multi-agent AI research platform.
 - 🌱 I’m building tools for AI agents like **[agent-skills](https://github.com/saadsh15/agent-skills)**.
