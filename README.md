@@ -10,7 +10,7 @@
 
 ### 🚀 Highlighted Projects
 
-- 🏠 **[dhobs](https://github.com/BasilSuhail/dhobs)**: Encryption-first homelab dashboard. *(Docker, Nginx, SQLCipher)*
+- 🏠 **[dhobs](https://github.com/BasilSuhail/dhobs)**: Zero Subscription/ fees self hosting platform. *(Docker, Nginx, SQLCipher)*
 - 🤖 **[ai_council](https://github.com/saadsh15/ai_council)**: Multi-agent AI research platform. *(Python)*
 - 🚀 **[agent-skills](https://github.com/saadsh15/agent-skills)**: Specialized AI engineering team skills.
 - 🗣️ **[stos](https://github.com/saadsh15/stos)**: TTS with voice cloning using Qwen-TTS. *(Python)*
