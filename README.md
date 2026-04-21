@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **[ai_council](https://github.com/saadsh15/ai_council)**, a terminal-based multi-agent AI research platform.
 - 🌱 I’m building tools for AI agents like **[agent-skills](https://github.com/saadsh15/agent-skills)**.
 - 👯 I’m looking to collaborate on Open Source AI tools, TypeScript, and Python utilities.
-- 💬 Ask me about **Python, TypeScript, AI integrations, and Web Development**.
+- 💬 Ask me about **Python, TypeScript, AI integrations, and AI Development**.
 
 ---
 
